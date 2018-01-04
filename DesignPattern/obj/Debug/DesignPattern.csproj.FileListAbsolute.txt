@@ -1,0 +1,6 @@
+C:\Projects\设计模式\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe.config
+C:\Projects\设计模式\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe
+C:\Projects\设计模式\DesignPattern\DesignPattern\bin\Debug\DesignPattern.pdb
+C:\Projects\设计模式\DesignPattern\DesignPattern\obj\Debug\DesignPattern.exe
+C:\Projects\设计模式\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
+C:\Projects\设计模式\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csprojResolveAssemblyReference.cache
